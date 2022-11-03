@@ -1,0 +1,207 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://projectanimusnft.com/",
+            "path": "index.html",
+            "saved": true,
+            "size": 18203,
+            "children": [
+                {
+                    "url": "https://projectanimusnft.com/EditorMedium.ttf",
+                    "path": "fonts/EditorMedium.ttf",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://projectanimusnft.com/gif.gif",
+                    "saved": false
+                },
+                {
+                    "url": "https://projectanimusnft.com/1.JPG",
+                    "path": "img/1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://projectanimusnft.com/svg/down.svg",
+                    "path": "img/down.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://code.jquery.com/jquery-3.6.0.js",
+                    "path": "js/jquery-3.6.0.js",
+                    "saved": true,
+                    "size": 288580,
+                    "children": []
+                },
+                {
+                    "url": "https://cdnjs.cloudflare.com/ajax/libs/ethers/5.6.9/ethers.umd.min.js",
+                    "path": "js/ethers.umd.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://projectanimusnft.com/js/webpack.js",
+                    "path": "js/webpack.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://projectanimusnft.com/js/common.js",
+                    "path": "js/common.js",
+                    "saved": true,
+                    "size": 4578048,
+                    "children": []
+                },
+                {
+                    "url": "https://projectanimusnft.com/js/polyfills.js",
+                    "path": "js/polyfills.js",
+                    "saved": true,
+                    "size": 1876103,
+                    "children": []
+                },
+                {
+                    "url": "https://unpkg.com/@walletconnect/web3-provider@1.2.1/dist/umd/index.min.js",
+                    "path": "js/index.min.js",
+                    "saved": true,
+                    "size": 1062220,
+                    "children": []
+                },
+                {
+                    "url": "https://unpkg.com/web3modal@1.9.0/dist/index.js",
+                    "path": "js/index.js",
+                    "saved": true,
+                    "size": 428153,
+                    "children": []
+                },
+                {
+                    "url": "https://projectanimusnft.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+                    "path": "js/email-decode.min.js",
+                    "saved": true,
+                    "size": 1239,
+                    "children": []
+                },
+                {
+                    "url": "https://projectanimusnft.com/js/jquery5597.js?ver=5.0",
+                    "path": "js/jquery5597.js",
+                    "saved": true,
+                    "size": 89501,
+                    "children": []
+                },
+                {
+                    "url": "https://projectanimusnft.com/js/plugins5597.js?ver=5.0",
+                    "path": "js/plugins5597.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://projectanimusnft.com/js/init5597.js?ver=5.0",
+                    "path": "js/init5597.js",
+                    "saved": true,
+                    "size": 21769,
+                    "children": []
+                },
+                {
+                    "url": "https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;300;400;500;600;700;800;900&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+                    "saved": false
+                },
+                {
+                    "url": "https://projectanimusnft.com/css/plugins5597.css?ver=5.0",
+                    "path": "css/plugins5597.css",
+                    "saved": true,
+                    "size": 30311,
+                    "children": []
+                },
+                {
+                    "url": "https://projectanimusnft.com/css/style5597.css?ver=5.0",
+                    "path": "css/style5597.css",
+                    "saved": true,
+                    "size": 97535,
+                    "children": [
+                        {
+                            "url": "https://projectanimusnft.com/img/roadmap.png",
+                            "path": "img/roadmap.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://projectanimusnft.com/favicon.png",
+                    "path": "img/favicon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "projectanimusnft-com-ov6c83be",
+    "info": {
+        "remark": [],
+        "title": "RTFKT: PROJECT ANIMUS",
+        "domain": "projectanimusnft.com",
+        "origin": "https://projectanimusnft.com",
+        "ip": "172.67.207.17",
+        "main": "index.html",
+        "url": "https://projectanimusnft.com/",
+        "totalSize": "8.49 MB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://projectanimusnft.com/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://projectanimusnft.com/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Thu, 03 Nov 2022 08:26:35 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "last-modified": "Thu, 03 Nov 2022 06:30:47 GMT",
+                "accept-ranges": "bytes",
+                "cf-cache-status": "DYNAMIC",
+                "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=AZLpxkIq2vFwVSsqYIb1E9qGlpSNyuK8HO1v9%2FgxNOqaXDw4qfQzZcwT8aPqDAzN0E1xg30wAis9W6N3RJiFScaak1tP1XA1cJY7Pc%2B3i3kf51N%2BqM3SOoc5BoC08cgTDzK%2F84QPxQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "server": "cloudflare",
+                "cf-ray": "7643b9d1cb65e378-NRT",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        },
+        "time": {
+            "start": "2022-11-03T08:26:35.105Z",
+            "end": "2022-11-03T08:26:54.028Z"
+        }
+    },
+    "options": {
+        "url": "https://projectanimusnft.com/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
